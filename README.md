@@ -23,7 +23,7 @@
 ## Education 📚
 <ul>
   <li><b>Student at 42 Málaga</b></li>
-  <a href="">Projects</a> <br>
+  <a href="https://github.com/ShurTito/42">Projects</a> <br>
   <li><b>Sololearn: Learn to Code</b> 👩🏻‍💻</li>
     <a href="">Certificates</a>
   <li><b>FreeCodeCamp</b></li>
