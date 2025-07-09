@@ -14,8 +14,7 @@
 
 ## About Me 💡
 
-
-Soy un desarrollador apasionado con experiencia en desarrollo de software, desarrollo web y desarrollo de videojuegos con UNITY. Me encanta aprender nuevas tecnologías y mejorar mis habilidades constantemente.
+I'm a dedicated software developer with hands-on experience in web development, game development with Unity, and systems programming. I thrive in fast-paced environments, enjoy learning new technologies, and constantly seek to improve both my technical and problem-solving skills.
 
 ---
 
@@ -44,7 +43,7 @@ Soy un desarrollador apasionado con experiencia en desarrollo de software, desar
 ## Education 📚
 
 - **Student at [42 Málaga](https://github.com/ShurTito/42)**
-- **CFGS Desarrollo aplicaciones Multiplataforma**
+- **CFGS Desarrollo Aplicaciones Multiplataforma**
 
 ---
 
