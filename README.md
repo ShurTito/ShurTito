@@ -45,8 +45,6 @@ Soy un desarrollador apasionado con experiencia en desarrollo de software, desar
 
 - **Student at [42 Málaga](https://github.com/ShurTito/42)**
 - **CFGS Desarrollo aplicaciones Multiplataforma**
-- **Sololearn: Learn to Code** 👩🏻‍💻  
-  [Certificates](#) *(Agrega el enlace cuando lo tengas)*
 
 ---
 
