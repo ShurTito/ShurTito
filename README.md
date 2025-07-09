@@ -47,8 +47,6 @@ Soy un desarrollador apasionado con experiencia en desarrollo de software, desar
 - **CFGS Desarrollo aplicaciones Multiplataforma**
 - **Sololearn: Learn to Code** 👩🏻‍💻  
   [Certificates](#) *(Agrega el enlace cuando lo tengas)*
-- **FreeCodeCamp**  
-  [Certificates](#) *(Agrega el enlace cuando lo tengas)*
 
 ---
 
