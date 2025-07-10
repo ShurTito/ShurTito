@@ -23,12 +23,13 @@ I'm a dedicated software developer with hands-on experience in web development, 
 <p>
   <img src="https://skillicons.dev/icons?i=c" alt="C" /> 
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" /> 
-  <img src="https://skillicons.dev/icons?i=c#" alt="C#" /> 
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" /> 
   <img src="https://skillicons.dev/icons?i=java" alt="Java" /> 
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" />  
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" /> 
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" /> 
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /> 
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /> 
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
 </p>
 
